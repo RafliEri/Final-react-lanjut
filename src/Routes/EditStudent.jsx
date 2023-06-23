@@ -225,10 +225,10 @@ const EditStudent = () => {
                     <Button
                       type="submit"
                       data-testid="edit-btn"
-                      bg="blue.500"
-                      color="white"
+                      bg={"blackAlpha.700"}
+                      color="gray.200"
                       rounded="md"
-                      _hover={{ bg: "blue.600" }}
+                      _hover={{ bg: "blackAlpha.800" }}
                       mt={7}
                     >
                       Edit Student

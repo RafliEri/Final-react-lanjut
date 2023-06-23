@@ -5,10 +5,10 @@ const Footer = () => {
     <>
       <Box
         className="footer"
-        bg="blue.500"
+        bg="gray.200"
         py={4}
         px={8}
-        color="white"
+        color="Black"
         textAlign="center"
         fontSize="md"
         fontWeight="normal"

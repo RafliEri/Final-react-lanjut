@@ -252,9 +252,9 @@ const AddStudent = () => {
           <Button
             type="submit"
             data-testid="add-btn"
-            bg="blue.500"
-            _hover={{ bg: "blue.600" }}
-            color="white"
+            bg="blackAlpha.700"
+            _hover={{ bg: "blackAlpha.800" }}
+            color="gray.200"
             fontWeight="semibold"
             py="2"
             px="4"
